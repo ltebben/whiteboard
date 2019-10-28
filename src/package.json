@@ -1,0 +1,29 @@
+{
+  "name": "whiteboard",
+  "version": "0.0.1",
+  "description": "doodle, take notes, and collaborate with your friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltebben/whiteboard.git"
+  },
+  "keywords": [
+    "notes",
+    "whiteboard",
+    "drawing",
+    "doodle"
+  ],
+  "author": "Laura Tebben, Zachary Collins",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/ltebben/whiteboard/issues"
+  },
+  "homepage": "https://github.com/ltebben/whiteboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
