@@ -4,7 +4,7 @@
   "description": "doodle, take notes, and collaborate with your friends",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node whiteboard/server/index.js",
     "test": "test"
   },
   "repository": {
