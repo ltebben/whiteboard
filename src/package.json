@@ -4,6 +4,7 @@
   "description": "doodle, take notes, and collaborate with your friends",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
